@@ -1,270 +1,271 @@
 # ARC CORE Whitepaper v1.0
 
-### Infraestrutura de Governança com Prova de Presença
+### Proof of Presence Governance Infrastructure
 
 ---
 
-# 1. Resumo Executivo
+# 1. Executive Summary
 
-ARC CORE é uma plataforma de governança descentralizada criada para redefinir a forma como comunidades participam da tomada de decisões em ecossistemas blockchain.
+ARC CORE is a decentralized governance platform built to redefine how communities participate in decision-making across blockchain ecosystems.
 
-Os sistemas tradicionais de governança frequentemente concentram poder nas mãos de grandes detentores de tokens, criando desequilíbrio entre posse de capital e participação genuína da comunidade.
+Traditional governance systems often concentrate power in the hands of large token holders, creating imbalance between capital ownership and genuine community participation.
 
-ARC CORE introduz um novo modelo: **Governança por Prova de Presença**.
+ARC CORE introduces a new model: **Proof of Presence Governance**.
 
-Em vez de recompensar apenas a posse passiva de tokens, ARC CORE concede influência, reputação e peso de voto aos usuários que participam ativamente do ecossistema por meio de presença consistente, atividade em votações, contribuição e engajamento.
+Instead of rewarding passive token ownership alone, ARC CORE gives influence, reputation, and governance weight to users who actively participate in the ecosystem through consistent presence, voting activity, contribution, and engagement.
 
-Isso cria um sistema de governança mais forte, justo e sustentável para a próxima geração de redes descentralizadas.
-
----
-
-# 2. O Problema
-
-A maioria dos sistemas de governança Web3 enfrenta limitações estruturais:
-
-## Domínio das Baleias
-
-Grandes detentores de tokens podem controlar decisões.
-
-## Poder de Voto Passivo
-
-Usuários sem participação ativa ainda influenciam a governança.
-
-## Baixa Retenção da Comunidade
-
-Muitos usuários aparecem apenas em airdrops ou eventos de tokens.
-
-## Exploração por Bots
-
-Contas falsas e carteiras farming reduzem a legitimidade.
-
-## Incentivos Fracos
-
-Contribuidores ativos muitas vezes não recebem influência adicional.
+This creates a stronger, fairer, and more sustainable governance system for the next generation of decentralized networks.
 
 ---
 
-# 3. A Solução ARC CORE
+# 2. The Problem
 
-ARC CORE introduz uma estrutura de governança onde a influência é conquistada por atividade verificada no ecossistema.
+Most governance systems in Web3 face structural limitations:
 
-## Princípio Central:
+## Whale Dominance
 
-> Presença gera reputação.
-> Reputação gera influência.
-> Influência fortalece a governança.
+Large token holders can control decisions.
 
-Os usuários recebem uma **Pontuação de Presença**, que aumenta através do engajamento real.
+## Passive Voting Power
 
-Essa pontuação pode ampliar participação na governança, desbloquear benefícios e fortalecer o ecossistema.
+Users with no participation still influence governance.
 
----
+## Low Community Retention
 
-# 4. Prova de Presença (PoP)
+Many users only appear during airdrops or token events.
 
-A Prova de Presença é o motor de reputação do ARC CORE.
+## Bot Exploitation
 
-Ela mede atividade consistente do usuário em vez de apenas posse financeira.
+Fake accounts and farming wallets dilute legitimacy.
 
-## Métricas de Presença Podem Incluir:
+## Weak Incentives
 
-* Conexão diária da carteira
-* Participação em votações
-* Engajamento em discussões de propostas
-* Uso de produtos do ecossistema
-* Participação na testnet
-* Missões comunitárias concluídas
-* Sequência de contribuições
-* Consistência de longo prazo
-
-## Exemplo:
-
-30 Dias Ativo = +300 Pontos
-8 Votações Participadas = +160 Pontos
-Uso de Bridge = +50 Pontos
-Tarefas Comunitárias = +90 Pontos
-
-**Pontuação Total de Presença = 600**
+Active contributors often receive no additional influence.
 
 ---
 
-# 5. Modelo de Peso de Governança
+# 3. The ARC CORE Solution
 
-ARC CORE combina justiça com descentralização.
+ARC CORE introduces a governance framework where influence is earned through verified ecosystem activity.
 
-Todo participante verificado recebe um voto base.
+## Core Principle:
 
-Influência adicional é conquistada por atividade.
+> Presence creates reputation.
+> Reputation creates influence.
+> Influence strengthens governance.
 
-## Modelo Exemplo:
+Users receive a **Presence Score**, which increases through real engagement.
 
-| Nível        | Pontuação de Presença | Peso de Voto |
-| ------------ | --------------------- | ------------ |
-| Base         | 0–100                 | 1.0x         |
-| Ativo        | 101–400               | 1.2x         |
-| Contribuidor | 401–800               | 1.5x         |
-| Membro Core  | 801+                  | 2.0x         |
-
-## Mecanismos de Proteção:
-
-* Limites de multiplicador de voto
-* Camadas anti-bot
-* Modelos de resistência Sybil
-* Lógica de pontuação transparente
-
-Isso evita concentração excessiva de poder.
+This score can enhance governance participation, unlock benefits, and strengthen the ecosystem.
 
 ---
 
-# 6. Propostas de Governança
+# 4. Proof of Presence (PoP)
 
-ARC CORE permite votações comunitárias sobre decisões do ecossistema.
+Proof of Presence is ARC CORE’s reputation engine.
 
-## Tipos de Propostas:
+It measures consistent user activity rather than only financial ownership.
 
-### Tesouraria
+## Presence Metrics May Include:
 
-* Alocação de reservas
-* Financiamento de crescimento
-* Grants para ecossistema
+* Daily wallet connection
+* Voting participation
+* Proposal discussion engagement
+* Ecosystem product usage
+* Testnet participation
+* Community missions completed
+* Contribution streaks
+* Long-term consistency
 
-### Produto
+## Example:
 
-* Novas integrações
-* Lançamento de bridges
-* Novos recursos
+30 Days Active = +300 Points
+8 Votes Participated = +160 Points
+Bridge Usage = +50 Points
+Community Tasks = +90 Points
 
-### Mercados
-
-* Expansão de stablecoins
-* Corredores de liquidez Forex
-* Suporte multi-moeda
-
-### Comunidade
-
-* Programas de embaixadores
-* Recompensas para contribuidores
-* Eleições de governança
+**Total Presence Score = 600**
 
 ---
 
-# 7. Recompensas e Incentivos
+# 5. Governance Weight Model
 
-Usuários ativos podem receber benefícios como:
+ARC CORE combines fairness with decentralization.
 
-* Melhorias de reputação
-* NFTs exclusivos
-* Acesso prioritário a lançamentos
-* Campanhas de recompensas da tesouraria
-* Qualificação para airdrops
-* Ranking público da comunidade
-* Cargos exclusivos de contribuidores
+Every verified participant receives a base vote.
+
+Additional influence is earned through activity.
+
+## Example Model:
+
+| Tier        | Presence Score | Voting Weight |
+| ----------- | -------------- | ------------- |
+| Base        | 0–100          | 1.0x          |
+| Active      | 101–400        | 1.2x          |
+| Contributor | 401–800        | 1.5x          |
+| Core Member | 801+           | 2.0x          |
+
+## Protection Mechanisms:
+
+* Voting multiplier caps
+* Anti-bot verification layers
+* Sybil resistance models
+* Transparent scoring logic
+
+This prevents excessive concentration of power.
 
 ---
 
-# 8. ARC CORE + Visão Financeira Global
+# 6. Governance Proposals
 
-ARC CORE foi projetado para evoluir além de DAOs tradicionais.
+ARC CORE supports community voting on ecosystem decisions.
 
-Pode suportar:
+## Example Proposal Types:
 
-* Ecossistemas de stablecoins
-* Governança de liquidez ligada ao Forex
-* Gestão de tesouraria
-* Comunidades de pagamentos internacionais
-* Camadas institucionais de governança
-* Participação multi-chain
+### Treasury
+
+* Reserve allocation
+* Growth funding
+* Ecosystem grants
+
+### Product
+
+* New integrations
+* Bridge launches
+* Feature releases
+
+### Markets
+
+* Stablecoin expansions
+* Forex liquidity corridors
+* Multi-currency support
+
+### Community
+
+* Ambassador programs
+* Contributor rewards
+* Governance elections
 
 ---
 
-# 9. Segurança e Integridade
+# 7. Rewards & Incentives
 
-ARC CORE prioriza governança confiável.
+Active users may receive benefits such as:
 
-## Medidas de Segurança:
+* Governance reputation upgrades
+* NFT badges
+* Priority access to launches
+* Treasury reward campaigns
+* Airdrop qualification
+* Community ranking visibility
+* Exclusive contributor roles
 
-* Auditorias de contratos inteligentes
-* Registros transparentes de votação
-* Autenticação via carteira
-* Sistemas anti-sybil
-* Monitoramento de manipulação de votos
-* Detecção de abuso de reputação
+---
+
+# 8. ARC CORE + Global Finance Vision
+
+ARC CORE is designed to evolve beyond standard DAO governance.
+
+It can support:
+
+* Stablecoin ecosystems
+* Forex-linked liquidity governance
+* Treasury management
+* Cross-border payment communities
+* Institutional governance layers
+* Multi-chain participation systems
+
+---
+
+# 9. Security & Integrity
+
+ARC CORE prioritizes trustworthy governance.
+
+## Core Security Measures:
+
+* Smart contract audits
+* Transparent voting records
+* Wallet-based authentication
+* Anti-sybil systems
+* Vote manipulation monitoring
+* Reputation abuse detection
 
 ---
 
 # 10. Roadmap
 
-## Fase 1 — Lançamento Testnet
+## Phase 1 — Testnet Launch
 
-* Conexão de carteira
-* Sistema de pontuação de presença
-* Dashboard de governança
-* Câmaras básicas de votação
+* Wallet connection
+* Presence score system
+* Governance dashboard
+* Basic voting chambers
 
-## Fase 2 — Expansão de Reputação
+## Phase 2 — Reputation Expansion
 
-* Motor avançado de pontuação
-* Missões e recompensas por sequência
-* Módulo de criação de propostas
+* Advanced scoring engine
+* Missions & streak rewards
+* Proposal creation module
 
-## Fase 3 — Integração de Ecossistema
+## Phase 3 — Ecosystem Integration
 
-* Suporte multi-chain
-* Ferramentas de governança para stablecoins
-* Dashboards de tesouraria
+* Multi-chain support
+* Stablecoin governance tools
+* Treasury dashboards
 
-## Fase 4 — Camada Global de Governança
+## Phase 4 — Global Governance Layer
 
-* Módulos institucionais
-* Corredores Forex
-* Sistemas de participação internacional
-
----
-
-# 11. Utilidade do Token (Futuro Opcional)
-
-Se integrado, um token pode ser usado para:
-
-* Depósito de propostas
-* Participação na tesouraria
-* Distribuição de incentivos
-* Staking de governança
-* Boosts de reputação (com limites)
+* Institutional modules
+* Forex governance corridors
+* Cross-border participation systems
 
 ---
 
-# 12. Por Que ARC CORE Importa
+# 11. Token Utility (Optional Future)
 
-A governança Web3 não deve pertencer apenas à riqueza.
+If integrated, a token may be used for:
 
-Ela deve pertencer à participação.
-
-ARC CORE transforma governança em um sistema onde usuários conquistam sua voz através de compromisso real.
-
-Isso cria:
-
-* Maior retenção
-* Comunidades mais fortes
-* Melhores decisões
-* Governança mais justa
-* Ecossistemas sustentáveis
+* Proposal deposits
+* Treasury participation
+* Incentive distribution
+* Governance staking
+* Reputation boosts (with limits)
 
 ---
 
-# 13. Declaração de Visão
+# 12. Why ARC CORE Matters
 
-> O futuro da governança pertence àqueles que aparecem.
+Web3 governance should not belong only to wealth.
+
+It should belong to participation.
+
+ARC CORE transforms governance into a system where users earn their voice through real commitment.
+
+This creates:
+
+* Higher retention
+* Stronger communities
+* Better decisions
+* Fairer governance
+* Sustainable ecosystems
 
 ---
 
-# 14. Declaração Final
+# 13. Vision Statement
 
-ARC CORE não é apenas mais uma ferramenta de governança.
+> The future of governance belongs to those who show up.
 
-É uma nova camada de participação para ecossistemas descentralizados — onde presença se torna poder, e compromisso se torna voz.
+---
+
+# 14. Closing Statement
+
+ARC CORE is not just another governance tool.
+
+It is a new participation layer for decentralized ecosystems — where presence becomes power, and commitment becomes voice.
 
 ---
 
 # ARC CORE
 
-### Governado pela Presença. Impulsionado pela Comunidade.
+### Governed by Presence. Powered by Community.
+
